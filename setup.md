@@ -3,9 +3,6 @@
 
 ---
 
-![RAG Chatbot Banner](https://user-images.githubusercontent.com/your-banner-image.png)
-
----
 
 ## 🌟 Overview
 
